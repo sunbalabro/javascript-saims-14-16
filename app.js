@@ -195,3 +195,10 @@
 //     <option value="${phoneArr[4]}">${phoneArr[4]}</option>
 //     <option value="${phoneArr[5]}">${phoneArr[5]}</option>
 //         <select>`);
+
+
+////// A Table made by loop ////////////
+// var userValue = parseInt(prompt("Enter a value which table you want"));
+// for(i=1; i<=10 ; i++){
+//     document.write( userValue + "x" + [i]+ "=" + i*userValue  + "<br />");
+// }
